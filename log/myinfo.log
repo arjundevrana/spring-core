@@ -1,0 +1,25 @@
+2016-08-31/01:02:12.907  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:02:12 IST 2016]; root of context hierarchy
+2016-08-31/01:02:12.966  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:02:13.249  INFO: main.SpringDependencyInjection -  User object
+2016-08-31/01:02:54.670  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@598067a5: startup date [Wed Aug 31 01:02:54 IST 2016]; root of context hierarchy
+2016-08-31/01:02:54.735  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:03:11.966  INFO: main.SpringDependencyInjection -  User object
+2016-08-31/01:03:37.592  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:03:37 IST 2016]; root of context hierarchy
+2016-08-31/01:03:37.649  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:03:37.984  INFO: main.SpringDependencyInjection -  User object
+2016-08-31/01:09:01.367  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:09:01 IST 2016]; root of context hierarchy
+2016-08-31/01:09:01.424  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:09:01.739  INFO: main.SpringDependencyInjection - User details:-
+2016-08-31/01:09:31.177  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:09:31 IST 2016]; root of context hierarchy
+2016-08-31/01:09:31.230  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:09:31.521  INFO: main.SpringDependencyInjection - User details:-
+2016-08-31/01:10:21.996  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:10:21 IST 2016]; root of context hierarchy
+2016-08-31/01:10:22.054  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:10:22.337  INFO: main.SpringDependencyInjection - User details:-
+2016-08-31/01:10:43.348  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@598067a5: startup date [Wed Aug 31 01:10:43 IST 2016]; root of context hierarchy
+2016-08-31/01:10:43.424  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:11:38.803  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:11:38 IST 2016]; root of context hierarchy
+2016-08-31/01:11:38.864  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
+2016-08-31/01:11:39.174  INFO: main.SpringDependencyInjection - User details:-
+2016-08-31/01:15:09.463  INFO: support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2: startup date [Wed Aug 31 01:15:09 IST 2016]; root of context hierarchy
+2016-08-31/01:15:09.540  INFO: xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [user-info.xml]
